@@ -6,7 +6,6 @@
 <!--[if IE]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<meta http-equiv="refresh" content="5; URL=http://www.rodolfonovak.com">
 <style>
   article, aside, details, figcaption, figure, footer, header,
   hgroup, menu, nav, section { display: block; }
